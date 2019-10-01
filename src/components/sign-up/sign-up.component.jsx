@@ -64,7 +64,7 @@ handleChange = event => {
                             name='displayName'
                             value={displayName}
                             onChange={this.handleChange}
-                            label='displayName'
+                            label='Display Name'
                             required
                             />
                         <FormInput
